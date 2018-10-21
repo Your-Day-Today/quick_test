@@ -1,5 +1,14 @@
-def MyFun(x, y):
+def add(x, y):
     pass
 
 
-There is a feature here
+def subtract(x, y):
+    pass
+
+
+def multiply(x, y):
+    pass
+
+
+def divide(x, y):
+    pass
